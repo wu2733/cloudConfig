@@ -12,9 +12,10 @@
     <modules>
         <module>config-server</module>
         <module>config-client</module>
+        <module>server-eureka</module>
     </modules>
 
-    <name>sc-f-chapter6</name>
+    <name>cloud-config</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
